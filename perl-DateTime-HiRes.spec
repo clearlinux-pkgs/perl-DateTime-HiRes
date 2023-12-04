@@ -5,7 +5,7 @@
 #
 Name     : perl-DateTime-HiRes
 Version  : 0.04
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/DateTime-HiRes-0.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/DateTime-HiRes-0.04.tar.gz
 Summary  : 'Create DateTime objects with sub-second current time resolution'
